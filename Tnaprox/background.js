@@ -1,8 +1,8 @@
 const proxies = [
-    { name: "Proxy 1", host: "proxy1.example.com", port: 8080 },
-    { name: "Proxy 2", host: "proxy2.example.com", port: 8080 },
-    { name: "Proxy 3", host: "proxy3.example.com", port: 8080 },
-    { name: "Proxy 4", host: "proxy4.example.com", port: 8080 }
+    { name: "CyberGhost Proxy", host: "1.94.31.35", port: 8080 },
+    { name: "Hide.me", host: "134.174.149.59", port: 8080 },
+    { name: "PlainProxies", host: "13.80.134.180", port: 8080 },
+    { name: "CroxyProxy", host: "134.174.149.59", port: 8080 }
   ];
   
   chrome.runtime.onInstalled.addListener(() => {
