@@ -15,10 +15,10 @@ button {
     background-color: #000000;
     color: rgb(0, 255, 55);
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #ffffff;
+    background-color: #ff0000;
 }
